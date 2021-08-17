@@ -16,7 +16,7 @@ It is a simple stock market tracking application created with the [API](https://
 
 <br>
 
-## [Live Server]()
+## [Live Server](https://cryptocurrency-tracker-ten.vercel.app/)
 
 <br>
 
